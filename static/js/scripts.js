@@ -138,7 +138,8 @@ const provMap = {
 '北京':'beijing',
 '湖南':'hunan',
 '澳门':'aomen',
-'香港':'xianggang'
+'香港':'xianggang',
+'天津':'tianjin'
 
 };
 
